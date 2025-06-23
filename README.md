@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Lemark Jone Y. Rosales!
+# 👋 Hello, I'm Lemark Rosales!
 
 🎓 I'm a **Bachelor of Science in Computer Science (BSCS)** graduate passionate about full-stack development, software engineering, and building solutions that solve real-world problems. I enjoy combining clean code, modern UI/UX, and backend logic to bring ideas to life.
 
