@@ -13,6 +13,10 @@
 - 🚗 **Gamified App**: Helping Cebu commuters learn directions, traffic rules, and jeepney routes.
 - 🐶 **Pet Organizer**: Organizing pet information with authentication, tracking, and more.
 - 🛍️ **Shop System**: Allows users to request custom services and view admin dashboards.
+- 🏨 **Hotel Website**: Full-stack hotel management system with booking, check-in/check-out, and admin control panel. Complete frontend + backend integration.
+- 📋 **Task Management App** – Simple to-do/task app with sorting, filtering, due dates, and completion tracking (React + Laravel).
+- 🗓️ **Event Calendar App** – Full-featured calendar with scheduling, reminders, and color-coded events (React frontend + Laravel backend).
+
 
 ## 📫 Let's Connect!
 - 🔗 [Facebook](https://www.facebook.com/lemark.rosales.2025)
