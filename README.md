@@ -9,7 +9,7 @@
 ## 📈 GitHub Stats
 ![Lemark's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemarkrosales&show_icons=true&theme=radical)
 
-## 🛠️ Projects I'm Working On
+## 🛠️ Projects I've Built
 - 🚗 **Gamified App**: Helping Cebu commuters learn directions, traffic rules, and jeepney routes.
 - 🐶 **Pet Organizer**: Organizing pet information with authentication, tracking, and more.
 - 🛍️ **Shop System**: Allows users to request custom services and view admin dashboards.
