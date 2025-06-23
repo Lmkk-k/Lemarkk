@@ -16,6 +16,7 @@
 
 ## 📫 Let's Connect!
 - 🔗 [Facebook](https://www.facebook.com/lemark.rosales.2025)
+- 🔗 [Instagram]([https://www.facebook.com/lemark.rosales.2025](https://www.instagram.com/lemarkkkk_/))
 - 💼 [LinkedIn](https://www.linkedin.com/in/lemark-rosales-919291300/)
 - ✉️ Email: lemarkrosales123@gmail.com
 
